@@ -1,0 +1,8 @@
+server:
+  port: 8443
+  ssl:
+    key-store: classpath:keystore.jks
+    key-store-password: changeit
+    key-alias: localhost
+    key-password: changeit
+    enabled: true
