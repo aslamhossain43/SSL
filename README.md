@@ -1,6 +1,6 @@
 # SSL/TLS
 
->Theory: https://www.youtube.com/watch?v=UbMlPIgzTxc&list=PLSNNzog5eyduzyJ8_6Je-tYOgMHvo344c
+>Theory: https://www.youtube.com/watch?v=33VYnE7Bzpk&list=PLSNNzog5eyduzyJ8_6Je-tYOgMHvo344c&index=2
 >Example: https://www.baeldung.com/x-509-authentication-in-spring-security
 
 ==========START==========
